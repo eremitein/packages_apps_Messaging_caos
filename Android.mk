@@ -64,7 +64,7 @@ else
     LOCAL_PROGUARD_FLAG_FILES += proguard-release.flags
 endif
 
-LOCAL_PACKAGE_NAME := messaging
+LOCAL_PACKAGE_NAME := Messaging
 
 LOCAL_SDK_VERSION := current
 
