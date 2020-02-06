@@ -89,7 +89,7 @@
             android:name=".ui.conversation.LaunchConversationActivity"
             android:configChanges="orientation|screenSize|keyboardHidden"
             android:screenOrientation="user"
-            android:theme="@style/Invisible"
+            android:theme="@style/Translucent"
             android:noHistory="true"
             android:documentLaunchMode="always">
             <intent-filter>
@@ -266,7 +266,7 @@
             android:configChanges="orientation|screenSize|keyboardHidden"
             android:screenOrientation="user"
             android:exported="false"
-            android:theme="@style/Invisible">
+            android:theme="@style/Translucent">
         </activity>
 
         <!-- VCard details -->
