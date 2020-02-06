@@ -66,8 +66,6 @@ endif
 
 LOCAL_PACKAGE_NAME := Messaging
 
-LOCAL_CERTIFICATE := platform
-
 LOCAL_SDK_VERSION := current
 
 include $(BUILD_PACKAGE)
