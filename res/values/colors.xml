@@ -56,7 +56,7 @@
     <color name="background_item_selected">#cc0099cc</color>
     <color name="background_item_pressed">#6733b5e5</color>
 
-    <color name="subject_editor_bubble">#ffffffff</color>
+    <color name="subject_editor_bubble">#f1f1f1</color>
     <color name="message_text_color_incoming">#ff000000</color>
     <color name="message_text_color_incoming_download_failed">#6a6a6a</color>
     <color name="message_text_color_outgoing">#ff323232</color>
@@ -123,7 +123,7 @@
 
     <color name="participant_list_text_primary">#4d4d4d</color>
     <color name="people_and_options_header_text">#6d6d6d</color>
-    <color name="people_and_options_list_divider">#cccccc</color>
+    <color name="people_and_options_list_divider">#00ffffff</color>
 
     <color name="fab_color">@color/lineage_accent</color>
     <color name="fab_pressed_color">#3ea4dc</color>
